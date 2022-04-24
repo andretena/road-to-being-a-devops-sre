@@ -25,34 +25,34 @@ Para uma oportunidade de **Júnior** ou mesmo **Pleno nível I**, entendo que te
 
 ### Bloco 1 - Etapa 1: Operating Systems & Linux Basics
 
-- Comandos básicos de Shell
-- Dominar ao máximo a ferramenta vi / vim
-- Ferramentas para manipular textos (awk, sed, grep, egrep, fgrep, sort, uniq, cat, cut, echo, fmt, tr, nl, wc, Less, more, tac)
-- Ferramentas para monitoramento de processos (ps, top, htop, atop, lsof)
-- Ferramentas para thsoot de redes (nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat)
-- Ferramentas para analise de performance de sistemas (nmon, iostat, sar, vmstat)
-- Outras ferramentas (find, tar, gz, zip, unzip, bz2, strace, dtrace, systemtap, uname, df)
-- Criar e Entender Linux File System
-- SSH Key Management
+- Comandos básicos de Shell [x]
+- Dominar ao máximo a ferramenta vi / vim [x]
+- Ferramentas para manipular textos (awk, sed, grep, egrep, fgrep, sort, uniq, cat, cut, echo, fmt, tr, nl, wc, Less, more, tac) [x]
+- Ferramentas para monitoramento de processos (ps, top, htop, atop, lsof) [x]
+- Ferramentas para thsoot de redes (nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat) 
+- Ferramentas para analise de performance de sistemas (nmon, iostat, sar, vmstat) 
+- Outras ferramentas (find, tar, gz, zip, unzip, bz2, strace, dtrace, systemtap, uname, df) [x]
+- Criar e Entender Linux File System [x]
+- SSH Key Management [x]
 
 > **Recomendação para estudos:** Overview do conteúdo [Linux Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) e Curso [Linux Essetials](https://www.udemy.com/course/lpi-linux-essentials/) e de [Shell Script](https://www.udemy.com/course/shell-script-do-basico-ao-profissional/)
 
 ### Bloco 1 - Etapa 2: Networking & Security
 
-- Configurações básicas de firewalls
-- Conhecimento sobre Camada OSI
+- Configurações básicas de firewalls [x]
+- Conhecimento sobre Camada OSI [x]
 - Entender sobre IP addresses, CIDRs subnets, portas, protocolos e DNS
 - Load Balancers
-- Proxy Server
-- Proxy Reversos
-- HTTP/HTTPS
-- SSL e TLS
+- Proxy Server [x]
+- Proxy Reversos [x]
+- HTTP/HTTPS [x]
+- SSL e TLS [x]
 - Port Forwarding
 
 ### Bloco 1 - Etapa 3: WebServers
 
 - Nginx
-- Apache
+- Apache [x]
 - IIS
 
 > **Dica:** Focar em configuração de SSL TLS para cada WebServer acima, pois hoje tudo tem que ter certificado nem que seja Let's Encrypt. Tente dominar instalações, configurações e alguns tshoots da ferramenta e de certificados.
